@@ -1,7 +1,3 @@
-## 4. Instalação — passo a passo
-
-Na sua máquina **tudo já está instalado e testado** — você pode ir direto para a
-seção 5. Os passos abaixo servem para reinstalar, ou para montar isso em outro PC.
 
 ### Passo 4.1 — Python
 
